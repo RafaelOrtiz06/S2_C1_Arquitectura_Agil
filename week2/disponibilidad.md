@@ -9,3 +9,6 @@ y planificar nuestro sistema para calcular la disponibilidad esperada de un sist
 
 Sin embargo en la disponibilidad funcional nos interesa detectar falla(componentes que operaban bien pero ahora responden mal), un sistema que va degradando
 su tiempo de respuesta, ya es a nivel de software
+
+Jugar con los ambientes
+sacamos 3 versiones de un ASR(enmascarar, reparar, deteccion, prevencion)
